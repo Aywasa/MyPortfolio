@@ -6,4 +6,4 @@ Here are examples of projects that I've created.
 # [Project 1: Apple Pie](https://github.com/Aywasa/ApplePie.git)
 I built a word-guessing game where each player has a limited number of turns to guess the letters in a word. Each incorrect guess results in an apple falling off the tree. The player wins by guessing the word correctly before all the apples are gone.
 
-![](/images/Apple%20Pie.jpg)
+![image of running program](images/ApplePie.jpg)
